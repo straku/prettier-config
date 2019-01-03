@@ -1,0 +1,9 @@
+{
+  "name": "@straku/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for personal projects",
+  "main": "index.js",
+  "author": "Łukasz Strączyński <l.straczynski@hotmail.com>",
+  "repository": "github:straku/prettier-config",
+  "license": "MIT"
+}
