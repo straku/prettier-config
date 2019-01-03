@@ -1,6 +1,6 @@
 {
   "name": "@straku/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier config for personal projects",
   "main": "index.js",
   "author": "Łukasz Strączyński <l.straczynski@hotmail.com>",
